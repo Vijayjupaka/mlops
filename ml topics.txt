@@ -1,0 +1,4 @@
+natural language processing
+algortihms
+machine learning models
+devops
